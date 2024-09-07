@@ -37,8 +37,8 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/php-blue?style=for-the-badge&logo=php&logoColor=white">
   </a>
 
-  <a href="https://www.framer.com/motion/" title="Framer Motion">
-    <img alt="Static Badge" src="https://img.shields.io/badge/framer%20motion-0055FF?style=for-the-badge&logo=framer&logoColor=white">
+  <a href="https://www.djangoproject.com/" title="Django">
+    <img alt="Static Badge" src="https://img.shields.io/badge/django-green?style=for-the-badge&logo=django&logoColor=white">
   </a>
   <a href="https://getbootstrap.com/" title="Bootstrap">
     <img alt="Static Badge" src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
@@ -56,8 +56,8 @@
     <a href="https://www.docker.com/" title="Docker">
     <img alt="Static Badge" src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white">
   </a>
-  <a href="https://vscodium.com/" title="VSCodium">
-    <img alt="Static Badge" src="https://img.shields.io/badge/vscodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white">
+  <a href="https://www.djangoproject.com/" title="Django">
+    <img alt="Static Badge" src="https://img.shields.io/badge/laragon-blue?style=for-the-badge&logo=laragon&logoColor=white">
   </a>
   <a href="https://git-scm.com/" title="Git">
     <img alt="Static Badge" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
