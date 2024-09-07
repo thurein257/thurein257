@@ -46,16 +46,12 @@
   <a href="https://drafts.csswg.org/" title="CSS3">
     <img alt="Static Badge" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   </a>
-  <a href="https://sass-lang.com/" title="Sass">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-  </a>
   <br />
-
-  <a href="https://gulpjs.com/" title="Gulp">
-    <img alt="Static Badge" src="https://img.shields.io/badge/gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white">
-  </a>
   <a href="https://www.postman.com/" title="Postman">
     <img alt="Static Badge" src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  </a>
+    <a href="https://www.docker.com/" title="Docker">
+    <img alt="Static Badge" src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white">
   </a>
   <a href="https://vscodium.com/" title="VSCodium">
     <img alt="Static Badge" src="https://img.shields.io/badge/vscodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white">
@@ -76,12 +72,5 @@
   </a>
   <br />
 
-  <h3>Reach me via</h3>
-  <a href="https://matrix.to/#/@thuhtoosan:fedora.im" title="@thuhtoosan:fedora.im">
-    <img alt="Static Badge" src="https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=matrix&logoColor=white">
-  </a>
-  <a href="https://signal.me/#eu/BNmnQycjTDDcpyxxh0NOUWbI2KDFcvP_jzZXZJZKODZ6sFb_mdhBs4D3bADegEfj" title="Signal">
-    <img alt="Static Badge" src="https://img.shields.io/badge/signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white">
-  </a>
 
 </div>
