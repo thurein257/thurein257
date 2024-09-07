@@ -63,7 +63,7 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   </a>
   <a href="https://www.linux.com/" title="Linux">
-    <img alt="Static Badge" src="https://img.shields.io/badge/gnu/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    <img alt="Static Badge" src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   </a>
   <br />
 
