@@ -29,11 +29,11 @@
     <a href="https://sass-lang.com/" title="Sass">
     <img alt="Static Badge" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   </a>
-  <a href="https://redux-toolkit.js.org/" title="Redux">
-    <img alt="Static Badge" src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
+  <a href="https://laravel.com/" title="Laravel">
+    <img alt="Static Badge" src="https://img.shields.io/badge/laravel-white?style=for-the-badge&logo=laravel&logoColor=red">
   </a>
-  <a href="https://vitejs.dev/" title="Vite">
-    <img alt="Static Badge" src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+  <a href="https://www.php.net/" title="Php">
+    <img alt="Static Badge" src="https://img.shields.io/badge/php-blue?style=for-the-badge&logo=php&logoColor=white">
   </a>
   <br />
 
