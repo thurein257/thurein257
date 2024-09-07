@@ -32,10 +32,10 @@
   <a href="https://laravel.com/" title="Laravel">
     <img alt="Static Badge" src="https://img.shields.io/badge/laravel-white?style=for-the-badge&logo=laravel&logoColor=red">
   </a>
+  <br />
   <a href="https://www.php.net/" title="Php">
     <img alt="Static Badge" src="https://img.shields.io/badge/php-blue?style=for-the-badge&logo=php&logoColor=white">
   </a>
-  <br />
 
   <a href="https://www.framer.com/motion/" title="Framer Motion">
     <img alt="Static Badge" src="https://img.shields.io/badge/framer%20motion-0055FF?style=for-the-badge&logo=framer&logoColor=white">
@@ -62,7 +62,7 @@
   <a href="https://git-scm.com/" title="Git">
     <img alt="Static Badge" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   </a>
-  <a href="https://www.gnu.org/gnu/linux-and-gnu.en.html" title="GNU/Linux">
+  <a href="https://www.linux.com/" title="Linux">
     <img alt="Static Badge" src="https://img.shields.io/badge/gnu/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   </a>
   <br />
