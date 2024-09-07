@@ -26,6 +26,9 @@
   <a href="https://react.dev/" title="React">
     <img alt="Static Badge" src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   </a>
+    <a href="https://sass-lang.com/" title="Sass">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  </a>
   <a href="https://redux-toolkit.js.org/" title="Redux">
     <img alt="Static Badge" src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
   </a>
