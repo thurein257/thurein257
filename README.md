@@ -38,7 +38,7 @@
   </a>
 
   <a href="https://www.djangoproject.com/" title="Django">
-    <img alt="Static Badge" src="https://img.shields.io/badge/django-green?style=for-the-badge&logo=django&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=green">
   </a>
   <a href="https://getbootstrap.com/" title="Bootstrap">
     <img alt="Static Badge" src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
